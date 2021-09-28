@@ -412,6 +412,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ef5ba88ed122df4199bc2ae0fad2f18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  screen:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  safeArea:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  backButtonRect: {fileID: 1928005305}
+  nextButtonRect: {fileID: 1822575269}
+  backButtonAnchor: {x: 0, y: 0}
+  nextButtonAnchor: {x: 0, y: 0}
 --- !u!4 &1928493801
 Transform:
   m_ObjectHideFlags: 0
